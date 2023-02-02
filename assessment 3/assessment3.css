@@ -1,0 +1,117 @@
+.div1{
+    border-radius: 20px;
+    border:7px solid red;
+    margin-left:400px;
+    margin-right:400px;
+    text-align:center;
+    color:red;
+    box-shadow:5px 5px darkviolet;
+}
+.main{
+    border:7px solid green;
+    height:600px;
+}
+.div2{
+    color:black;
+    border:7px solid red;
+    position:absolute;
+    border-radius: 20px;
+    text-align:center;
+    padding-bottom:20px;
+    box-shadow:5px 5px darkviolet;
+
+}
+.div3{
+    position:relative;
+    margin-left:1100px;
+    margin-right:40px;
+    border:7px solid red;
+    padding-bottom: 5px;
+    border-radius:20px;
+    box-shadow:5px 5px darkviolet;
+}
+img{
+    height:150px;
+    width:150px;
+    margin:20px;
+}
+.main2{
+    border:7px solid red;
+    background-color: greenyellow;
+    margin-left:410px;
+    margin-right:410px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius: 20px;
+    color:red;
+    position:fixed;
+    margin-top: 70px;
+    box-shadow:5px 5px darkviolet;
+    z-index: 1;
+}
+.div4{
+    display:inline-block;
+    margin-left:40px;
+    text-align:center;
+}
+.div5{
+    display:inline-block;
+    margin-left:50px;
+    text-align:center;
+    
+}
+.div6{
+    border:7px solid red;
+    border-radius: 20px;
+    position: absolute;
+    margin-top:50px;
+    width:210px;
+    box-shadow:5px 5px darkviolet;
+}
+.div7{
+    border:7px solid red;
+    border-radius: 20px;
+    position: relative;
+    margin-left:1100px;
+    margin-right:40px;
+    padding-bottom: 30px;
+    text-align: center;
+    top:60px;
+    box-shadow:5px 5px darkviolet;
+}
+.i1{
+   background-color: red; 
+}
+.i2{
+    text-align: center;
+    width:100px;
+    margin-bottom: 20px;
+}
+
+.main3{
+    border:7px solid darkviolet;
+    text-align:center;
+    background-color: green;
+    height:520px;
+    margin-left:250px;
+    margin-right:250px;
+}
+
+.fruits{
+    border:1px solid #CCE96D;
+    position:absolute;
+    background-color: #CCE96D;
+    padding-bottom: 18px;
+    
+}
+.vegetables{
+    border:1px solid #CCE96D;
+    position:relative;
+    background-color: #CCE96D;
+    margin-left:380px;
+    margin-right:20px;
+}
+.other{
+    border:1px solid #CCE96D;
+    background-color: #CCE96D;
+}
